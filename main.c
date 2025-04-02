@@ -1,4 +1,8 @@
-    #include <stdio.h>
+// Nome: Luca Guerreiro Ramos
+// Matéria: Algoritmos I
+// Data de Entrega: 02/04
+
+#include <stdio.h>
     #include <stdlib.h>
 
     // Estrutura para representar uma fra��o
